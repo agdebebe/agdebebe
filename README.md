@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**agdebebe/agdebebe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a hard-working software engineer with a flair for creating elegant solutions in the least amount of time. Passionate about software architecture and cloud computing.
 
-Here are some ideas to get you started:
+- ⚡ Bachelors degree in Computer Science. 
+- 🌱 Harvard Professional Data Science Certification.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a Spring Boot Application that utlizes AWS SDK to implement a file storing system using S3 buckets.
+
+- 📫 Here's my Linkedin www.linkedin.com/in/ablehulu.
+
+
+
